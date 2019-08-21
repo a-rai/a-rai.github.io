@@ -366,7 +366,7 @@ strong {
   line-height: 36px;
 }
 .article-share-links {
-  background: #1e90ff;
+  background: #eee;
 }
 .article-share-links:before,
 .article-share-links:after {
@@ -569,7 +569,7 @@ strong {
   font-family: "Source Code Pro", Consolas, Monaco, Menlo, Consolas, monospace;
 }
 .article-entry code {
-  background: #1e90ff;
+  background: #eee;
   text-shadow: 0 1px #fff;
   padding: 0 0.3em;
 }
